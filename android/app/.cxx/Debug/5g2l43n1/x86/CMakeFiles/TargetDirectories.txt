@@ -1,0 +1,2 @@
+/Users/siba/StudioProjects/ui_project/android/app/.cxx/Debug/5g2l43n1/x86/CMakeFiles/edit_cache.dir
+/Users/siba/StudioProjects/ui_project/android/app/.cxx/Debug/5g2l43n1/x86/CMakeFiles/rebuild_cache.dir
