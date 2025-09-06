@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
 import 'core_widgets/main_header.dart';
 
 class ProductDetailsScreen extends StatelessWidget {
