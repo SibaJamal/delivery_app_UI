@@ -1,16 +1,34 @@
-# ui_project
+# 🚀 delivery_app_UI
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)
+![Dart](https://img.shields.io/badge/Dart-Language-blueviolet)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-## Getting Started
+## 📖 About the Project
+📦 Delivery App UI – Flutter ✨ 
+A beautifully crafted Flutter-based delivery app UI featuring:
+✨ Smooth animations for a modern user experience 
+📱 Responsive layout optimized for various screen sizes 
+♻️ Reusable widgets for scalable development
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="screenshots/delivery_app1.png" width="250" />
+  <img src="screenshots/delivery_app2.png" width="250" />
+  <img src="screenshots/delivery_app3.png" width="250" />
+  <img src="screenshots/delivery_app4.png" width="250" />
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/) – Cross-platform framework  
+- [Dart](https://dart.dev/) – Programming language  
+
+
+
+
+
