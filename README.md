@@ -16,10 +16,10 @@ A beautifully crafted Flutter-based delivery app UI featuring:
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/delivery_app1.png" width="250" />
-  <img src="screenshots/delivery_app2.png" width="250" />
-  <img src="screenshots/delivery_app3.png" width="250" />
-  <img src="screenshots/delivery_app4.png" width="250" />
+  <img src="screenshoots/delivery_app1.png" width="250" />
+  <img src="screenshoots/delivery_app2.png" width="250" />
+  <img src="screenshoots/delivery_app3.png" width="250" />
+  <img src="screenshoots/delivery_app4.png" width="250" />
 </p>
 
 ---
@@ -27,6 +27,7 @@ A beautifully crafted Flutter-based delivery app UI featuring:
 ## 🛠️ Built With
 - [Flutter](https://flutter.dev/) – Cross-platform framework  
 - [Dart](https://dart.dev/) – Programming language  
+
 
 
 
